@@ -1,6 +1,6 @@
 # coffee
 
-A new Flutter project.
+Projeto de tela com Pageview + Transforms. 
 
 <img src="https://github.com/renamcomn/coffee/blob/master/assets/images/screen.gif" width="500" />
 
