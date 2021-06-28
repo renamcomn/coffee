@@ -1,6 +1,8 @@
-# coffe
+# coffee
 
 A new Flutter project.
+
+<img src="https://github.com/renamcomn/coffee/blob/master/assets/images/screen.gif" width="500" />
 
 ## Getting Started
 
